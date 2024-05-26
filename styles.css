@@ -27,13 +27,13 @@ nav {
   font-size: 1.5em;
   font-weight: bold;
   color: rgb(232, 232, 232);
-  margin: 10px 0 10px 10px ;
+  margin: 10px 0 10px 10px;
 }
 
 .nav-link {
   display: block;
   text-decoration: none;
-  text-transform: uppercase ;
+  text-transform: uppercase;
   letter-spacing: 0.1rem;
   color: white;
   transition: background-color 0.3s;
@@ -42,7 +42,7 @@ nav {
 
 a {
   border-top: 1px solid rgb(111, 111, 112);
-  padding: 10px
+  padding: 10px;
 }
 
 a:last-child {
@@ -54,7 +54,7 @@ a:last-child {
 }
 
 main {
-  margin-left: 250px; 
+  margin-left: 250px;
   padding: 20px 40px 0 20px;
 }
 
@@ -83,5 +83,4 @@ code {
 li {
   margin: 10px 0 5px 20px;
   list-style: square;
-  
 }
