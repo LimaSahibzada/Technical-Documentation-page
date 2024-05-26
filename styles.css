@@ -52,3 +52,7 @@ a {
 a:last-child {
   border-bottom: 1px solid rgb(30, 195, 214);
 }
+
+.nav-link:hover {
+  background-color: #666667;
+}
