@@ -56,3 +56,12 @@ a:last-child {
 .nav-link:hover {
   background-color: #666667;
 }
+
+main {
+  margin-left: 250px; 
+  padding: 20px 40px 0 20px;
+}
+
+.main-section {
+  margin-bottom: 40px;
+}
