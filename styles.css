@@ -4,3 +4,12 @@
     color: white;
   }
 }
+
+
+body {
+  display: flex;
+  font-family: Arial, sans-serif;
+  line-height: 1.3rem;
+  margin: 0;
+  padding: 0;
+}
