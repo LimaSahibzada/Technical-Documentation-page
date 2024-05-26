@@ -84,3 +84,9 @@ code {
   padding: 15px;
 }
 
+li {
+  margin: 10px 0 5px 20px;
+  list-style: square;
+  
+}
+
