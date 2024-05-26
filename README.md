@@ -4,75 +4,84 @@
 
 > this is a documentation page which have some html lessons and codes .
 
-Examples:
+I was inspired to creat a documantation page and all html guidlines . I was fustrated the lack of existing tools that guide us how to use html . I wanted to creat a page that would be easy to use and flexabale . During creating this page I learned the importance and the challanges of creating a flexable documantation page also the value of open source collaboration.
 
-- What inspired you to create this project?
-- What problems does it solve?
-- What did you learn from working on this project?
-- What makes your project stand out?
+
 
 
 
 ## Demo 📸
 
-Include a demo or animated GIF of your project. You can use tools like [asciinema](https://asciinema.org/) to record your terminal sessions.
 
-![Demo](https://via.placeholder.com/600x300)
+- Below you can have a view of my page:
+
+![Technical Documentation page]![picof project](https://github.com/LimaSahibzada/Technical-Documentation-page/assets/167701815/21e881df-b52a-4980-85dc-45b27ef28992)
+
+
+
 
 ## Technologies Used 🛠️
 
-List the technologies or tools you used to develop your project. You can also include the libraries or frameworks you used.
-
-Examples:
+Languages I used in this project:
 
 - HTML
 - CSS
 
 
+
 ## Installation 💻
 
-Provide step-by-step instructions on how to install and set up your project. Include any dependencies or prerequisites that need to be installed.
+To check my project, you ahould follow below steps.
+go to your computer local machine and use this command,
 
 ```bash
-# Provide code snippets or commands to help users get started.
+git clone git@github.com:LimaSahibzada/Technical-Documentation-page.git
+
+```
+after cloning write this command:
+```bash
+cd (chose a file)
+```
+After you choose a file then write this command to see all codes in vscode:
+```bash
+code .
 ```
 
-```bash
-# You can also include multiple steps to guide users through the installation process.
-```
 
-```bash
-# You can also include any troubleshooting tips or FAQs.
-```
+
 
 ## Usage 🎯
 
-Explain how to use your project. Provide examples and instructions on how to run it, any command-line options, or any other relevant information.
+1. Clone the repository to your local machine
+2. Open the index.html file in your web browser
+
+
 
 ```bash
-# Provide code snippets or commands to demonstrate how to use your project.
+git clone git@github.com:LimaSahibzada/Technical-Documentation-page.git
 ```
+
+
+
 
 ## Features ⭐
 
-List the key features of your project. Highlight any unique or noteworthy functionalities.
+My webpage stand out from other pages in the following ways:
 
-Examples:
+- My projrct is easy to use , even for beginners
+- The documantion is written in clear and consise language that is easy to undrestand
+- Documentation is organized and easy to navigate
 
-- Feature 1
-- Feature 2
-- Feature 3
+
+
+
 
 ## Author 👩‍💻
+For questions or suport , please contact me through below addresess:
+- Github: [@LimaSahibzada](https://github.com/LimaSahibzada)
+- LinkedIn: [Lima M_S](https://linkedin.com/in/Lima_M_S)
+- Email: [Lima Sahibzada](limasahibzada2023@gmail.com.com)
 
-Provide your name and a link to your Social Media profiles. You can also include your email address.
 
-- Github: [@your-twitter](https://github.com/LimaSahibzada)
-- LinkedIn: [Your Name](https://linkedin.com/in/Lima_M_S)
-- Email: [example](limasahibzada@gmail.com)
-
-## Contributing 🤝
-
-Provide guidelines for others who want to contribute to your project. Include information on how to submit bug reports, feature requests, or pull requests.
 
 
