@@ -65,3 +65,13 @@ main {
 .main-section {
   margin-bottom: 40px;
 }
+
+header {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+p {
+  line-height: 1.8rem;
+  margin-bottom: 20px;
+}
